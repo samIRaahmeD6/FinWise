@@ -2,6 +2,9 @@
 
 A full-stack finance management web application with AI-powered expense predictions. Track your income, expenses, remaining balance, and visualize spending trends over time. The app supports multiple users and provides a simple dashboard for financial insights.
 
+🚀 Live Demo
+
+[![Demo](src/assets/FinanceManager.gif)](src/assets/FinanceManager.gif)
 ---
 
 ## Features
