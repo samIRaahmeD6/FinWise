@@ -4,7 +4,7 @@ A full-stack finance management web application with AI-powered expense predicti
 
 🚀 Live Demo
 
-[![Demo](src/assets/FinanceManager.gif)](src/assets/FinanceManager.gif)
+[![Demo](client/src/assets/FinanceManager.gif)](client/src/assets/FinanceManager.gif)
 ---
 
 ## Features
