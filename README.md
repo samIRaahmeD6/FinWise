@@ -58,7 +58,7 @@ finance-manager/
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/finance-manager.git
+git clone https://github.com/samIRaahmeD6/FinWise.git
 cd finance-manager
 cd backend
 npm install
